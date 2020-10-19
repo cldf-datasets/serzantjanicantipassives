@@ -1,0 +1,38 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,SubBranch,Family
+adyg1241,Adyghe,Eurasia,44.0,39.33,adyg1241,ady,Circassian,Northwest Caucasian
+akaw1239,Akawaio,South America,6.16277,-60.862,akaw1239,ake,Venezuelan Cariban,Cariban
+bant1281,Bantawa,Eurasia,27.12147,87.04738,bant1281,bap,Kiranti,Sino-Tibetan
+cari1279,Kari’Nja (Carijona),South America,1.21894,-72.0664,cari1279,cbd,Guianan,Cariban
+cavi1250,Cavineña,South America,-13.3544,-66.6277,cavi1250,cav,Tacanan,Pana-Tacanan
+cent2127,Central Alaskan Yupik,North America,60.3062,-161.486,cent2127,esu,Eskimo,Eskimo-Aleut
+cham1312,Chamorro,Papunesia,13.438011,144.74474,cham1312,cha,Malayo-Polynesian,Austronesian
+chuk1273,Chukchi,Eurasia,68.6436,170.045,chuk1273,ckt,Chukotkan,Chukotko-Kamchatkan
+coeu1236,Cœur D'Alene,North America,47.2958,-116.715,coeu1236,crd,Interior Salish,Salishan
+coma1245,Comanche,North America,34.0,-101.0,coma1245,com,Numic,Uto-Aztecan
+como1259,Sliammon,North America,49.7233,-124.967,como1259,coo,Central Salish,Salishan
+dyir1250,Dyirbal,Australia,-17.4516,145.544,dyir1250,dbl,Dyirbalic,Pama-Nyungan
+east2534,Inuktitut,North America,62.1735,-75.6139,east2534,ike,Inuit,Eskimo-Aleut
+esee1248,Ese_ejja,South America,-11.7268,-67.515,esee1248,ese,Tacanan,Pana-Tacanan
+gang1267,Yukulta,Australia,-17.5446,139.426,gang1267,gcd,Southern Tangkic,Tangkic
+halk1245,Halkomelem,North America,49.250402,-122.443668,halk1245,hur,Central,Salishan
+hinu1240,Hinuq,Eurasia,42.4502,45.8064,hinu1240,gin,Tsezic,Nakh-Daghestanian
+hixk1239,Hixkaryana,South America,-0.16265,-58.80153,hixk1239,hix,Parukotoan,Cariban
+jiar1240,Japhug (Rgyalrong),Eurasia,31.60295,102.22875,jiar1240,jya,Qiangic,Sino-Tibetan
+kala1399,West Greenlandic (Kalaallisut),North America,69.3761,-52.864,kala1399,kal,Inuit,Eskimo-Aleut
+kana1291,Katukina-Kanamari,South America,-6.45399,-68.7678,kana1291,knm,Harákmbut–Katukinan,Katukinan
+kaqc1270,Kaqchikel,North America,14.4662,-90.9881,kaqc1270,cak,K'Ichean,Mayan
+khin1240,Dargwa-Tanty,Eurasia,41.1801,48.0571,khin1240,kjj,Dargwic,Nakh-Daghestanian
+mamm1241,Mam,North America,14.8034,-91.7231,mamm1241,mam,Mamean,Mayan
+mats1244,Matsés,South America,-5.73914,-72.6281,mats1244,mcf,Panoan,Pano-Tacanan
+moco1246,Mocoví,South America,-28.097,-60.4145,moco1246,moc,Guaicuru Del Sur,Guaicuruan
+movi1243,Movima,South America,-13.8115,-65.6348,movi1243,mzp,Isolate,Isolate
+nezp1238,Nez Perce,North America,46.3073,-116.408,nezp1238,nez,Sahaptian,Plateau Penutian
+nort2943,Malimiut Inupiaq,North America,69.582,-143.77,nort2943,esi,Eskimo,Eskimo-Aleut
+nyam1271,Ngarla,Australia,-21.6092,119.693,nyam1271,nly,Ngayarda,Pama-Nyungan
+pari1256,Päri,Africa,5.09472,32.4822,pari1256,lkr,Nilotic,Nothern_lwoo
+popt1235,Jacaltec,North America,15.6609,-91.6633,popt1235,jac,Q'Anjobalan,Mayan
+puma1239,Puma,Eurasia,27.0774,86.838,puma1239,pum,Kiranti,Tibeto-Burman
+taga1270,Tagalog,Papunesia,14.06,121.747,taga1270,tgl,Phillipine,Austronesian
+waru1264,Warrungu (Warrongo),Australia,-18.2496,144.37,waru1264,wrg,Maric,Pama-Nyungan
+yakk1236,Yakkha,Eurasia,27.3714,87.9306,yakk1236,ybh,Kiranti,Sino-Tibetan
+yidi1250,Yidiny,Australia,-17.1332,145.876,yidi1250,yii,Yimidhirr-Yalanji-Yidinic,Pama-Nyungan
