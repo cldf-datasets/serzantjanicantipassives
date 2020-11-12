@@ -5,18 +5,18 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Ser\u017eant, Ilja and Katarzyna Maria Janic: \u2018Typology of antipassive coding patterns\u2019",
+    "dc:bibliographicCitation": "Ser\u017eant, Ilja and Katarzyna Janic: \u2018Typology of antipassive coding patterns and frequency effects of antipassives\u2019",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:description": "Basic information about antipassives in languages with at least some ergative patterns",
     "dc:source": "sources.bib",
-    "dc:title": "Typology of antipassive coding patterns",
+    "dc:title": "Typology of antipassive coding patterns and frequency effects of antipassives",
     "dcat:accessURL": "git@github.com:cldf-datasets/serzantjanicantipassives",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:cldf-datasets/serzantjanicantipassives",
-            "dc:created": "3b4be80"
+            "dc:created": "b0e42a0"
         },
         {
             "rdf:type": "prov:Entity",
