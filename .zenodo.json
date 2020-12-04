@@ -1,0 +1,26 @@
+{
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        }
+    ],
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "creators": [
+        {
+            "name": "Ilja Seržant"
+        },
+        {
+            "name": "Katarzyna Janic"
+        }
+    ],
+    "access_right": "open",
+    "upload_type": "dataset",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "title": "Typology of antipassive coding patterns and frequency effects of antipassives",
+    "description": "Basic information about antipassives in languages with at least some ergative patterns"
+}

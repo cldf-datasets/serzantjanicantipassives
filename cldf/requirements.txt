@@ -1,8 +1,8 @@
 appdirs==1.4.4
 certifi==2020.6.20
 chardet==3.0.4
-cldfbench==1.2.2
--e git+https://github.com/cldf-datasets/serzantjanicantipassives.git@402b796a9cdc4492c3b06bce1a8494d9dfcdd47c#egg=cldfbench_serzantjanicantipassives
+cldfbench==1.2.3
+-e git+https://github.com/cldf-datasets/serzantjanicantipassives.git@88dfe122d308659043656532d6229f43a01dd181#egg=cldfbench_serzantjanicantipassives
 cldfcatalog==1.3.0
 clldutils==3.5.2
 colorlog==4.2.1
