@@ -10,25 +10,25 @@
     "dc:description": "Basic information about antipassives in languages with at least some ergative patterns",
     "dc:source": "sources.bib",
     "dc:title": "Typology of antipassive coding patterns and frequency effects of antipassives",
-    "dcat:accessURL": "git@github.com:cldf-datasets/serzantjanicantipassives",
+    "dcat:accessURL": "https://github.com/cldf-datasets/serzantjanicantipassives",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "git@github.com:cldf-datasets/serzantjanicantipassives",
-            "dc:created": "b0e42a0"
+            "rdf:about": "https://github.com/cldf-datasets/serzantjanicantipassives",
+            "dc:created": "9215256"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3-treedb-fixes"
+            "dc:created": "v4.3"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.3"
+            "dc:description": "3.5.2"
         },
         {
             "dc:title": "python-packages",
