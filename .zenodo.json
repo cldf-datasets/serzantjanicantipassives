@@ -15,6 +15,16 @@
             "name": "Katarzyna Janic"
         }
     ],
+    "contributors": [
+        {
+            "name": "Johannes Englisch",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "DataCurator"
+        }
+    ],
     "access_right": "open",
     "upload_type": "dataset",
     "keywords": [
